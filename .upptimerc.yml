@@ -4,23 +4,23 @@ repo: service-status-monitor
 sites:
   - name: Minecraft Creative Server（創造服）
     check: "tcp-ping"
-    url: $MINENTU_CREATIVE_SERVER_IP
-    port: $MINENTU_CREATIVE_SERVER_PORT
+    url: $CREATIVE_SERVER_IP
+    port: $CREATIVE_SERVER_PORT
   - name: MyNTU Dashboard
     url: https://dashboard.myntu.me
-  - name: MineNTU Bluemine
+  - name: Bluemine
     url: https://bluemine.myntu.me
   - name: MineNTU Landing Page
     url: https://minecraft.myntu.me
   - name: MineNTU Docs Page
     url: https://minecraft.myntu.me/docs
-  - name: MineNTU Service API
+  - name: Service API
     url: $SERVICE_API_URL
-  - name: MineNTU Assistant Bot
+  - name: Assistant Bot
     url: $ASSISTANT_BOT_URL
 
 status-website:
-  theme: dark
+  theme: ocean
   introTitle: MineNTU 服務狀態
   baseUrl: /status
   logoUrl: https://avatars.githubusercontent.com/u/84632044
