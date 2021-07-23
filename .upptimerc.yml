@@ -29,4 +29,6 @@ i18n:
   overallUptime: 在線率
   averageResponseTime: 平均伺服器回應時間
   liveStatus: 目前在線狀態
+  ms: ms
+  up: Up
   footer: THIS PAGE IS NOT FULLY OPTIMIZED.
