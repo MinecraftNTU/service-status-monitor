@@ -8,7 +8,7 @@ sites:
     url: https://minecraft.myntu.me
   - name: MineNTU Docs Page
     url: https://minecraft.myntu.me/docs
-  - name: MineNTU 管爺代理人
+  - name: MineNTU Assistant Bot
     url: $ASSISTANT_BOT_URL
 
 status-website:
@@ -18,4 +18,3 @@ status-website:
   logoUrl: https://avatars.githubusercontent.com/u/84632044
   name: 服務狀態 - MineNTU 臺大麥塊
   themeUrl: https://minecraft.myntu.me/status/ocean.css
-
