@@ -20,8 +20,8 @@ sites:
     url: $ASSISTANT_BOT_URL
 
 status-website:
-  theme: ocean
   introTitle: MineNTU 服務狀態
   baseUrl: /status
-  logoUrl: https://avatars.githubusercontent.com/u/84632044
-  name: 服務狀態 - MineNTU 臺大麥塊
+
+i18n:
+  footer: **THIS PAGE IS NOT FULLY OPTIMIZED.**
