@@ -22,7 +22,6 @@ sites:
 status-website:
   name: MineNTU 服務狀態
   introTitle: MineNTU 服務狀態
-  baseUrl: /status
 
 i18n:
   footer: THIS PAGE IS NOT FULLY OPTIMIZED.
