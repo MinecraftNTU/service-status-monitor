@@ -10,9 +10,13 @@ sites:
     url: https://minecraft.myntu.me/docs
   - name: MineNTU Assistant Bot
     url: $ASSISTANT_BOT_URL
+  - name: MineNTU Creative Server（創造服）
+    check: "tcp-ping"
+    url: $MINENTU_CREATIVE_SERVER_IP
+    port: $MINENTU_CREATIVE_SERVER_PORT
 
 status-website:
-  introTitle: MineNTU 各服務狀態
+  introTitle: MineNTU 服務狀態
   baseUrl: /status
   logoUrl: https://avatars.githubusercontent.com/u/84632044
   name: 服務狀態 - MineNTU 臺大麥塊
