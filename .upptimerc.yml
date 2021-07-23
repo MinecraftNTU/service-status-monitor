@@ -2,6 +2,10 @@ owner: MinecraftNTU
 repo: service-status-monitor
 
 sites:
+  - name: Minecraft Creative Server（創造服）
+    check: "tcp-ping"
+    url: $MINENTU_CREATIVE_SERVER_IP
+    port: $MINENTU_CREATIVE_SERVER_PORT
   - name: MineNTU Service API
     url: $SERVICE_API_URL
   - name: MineNTU Landing Page
@@ -10,10 +14,6 @@ sites:
     url: https://minecraft.myntu.me/docs
   - name: MineNTU Assistant Bot
     url: $ASSISTANT_BOT_URL
-  - name: MineNTU Creative Server（創造服）
-    check: "tcp-ping"
-    url: $MINENTU_CREATIVE_SERVER_IP
-    port: $MINENTU_CREATIVE_SERVER_PORT
 
 status-website:
   introTitle: MineNTU 服務狀態
