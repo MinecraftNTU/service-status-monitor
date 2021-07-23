@@ -21,7 +21,6 @@ sites:
 
 status-website:
   name: MineNTU 服務狀態
-  cname: status.minecraft.myntu.me
   baseUrl: /status
 
 i18n:
