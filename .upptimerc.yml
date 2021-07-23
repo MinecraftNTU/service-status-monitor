@@ -20,7 +20,7 @@ sites:
     url: $ASSISTANT_BOT_URL
 
 status-website:
-  introTitle: MineNTU 服務狀態
+  name: MineNTU 服務狀態
   baseUrl: /status
 
 i18n:
