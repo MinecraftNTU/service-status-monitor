@@ -16,6 +16,7 @@ sites:
     url: $ASSISTANT_BOT_URL
 
 status-website:
+  theme: dark
   introTitle: MineNTU 服務狀態
   baseUrl: /status
   logoUrl: https://avatars.githubusercontent.com/u/84632044
