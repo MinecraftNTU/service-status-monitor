@@ -24,4 +24,8 @@ status-website:
   introTitle: MineNTU 服務狀態
 
 i18n:
+  allSystemsOperational: 所有服務皆正常運作
+  overallUptime: 在線率
+  averageResponseTime: 平均伺服器回應時間
+  liveStatus: 目前在線狀態
   footer: THIS PAGE IS NOT FULLY OPTIMIZED.
