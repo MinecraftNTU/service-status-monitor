@@ -6,12 +6,16 @@ sites:
     check: "tcp-ping"
     url: $MINENTU_CREATIVE_SERVER_IP
     port: $MINENTU_CREATIVE_SERVER_PORT
-  - name: MineNTU Service API
-    url: $SERVICE_API_URL
+  - name: MyNTU Dashboard
+    url: https://dashboard.myntu.me
+  - name: MineNTU Bluemine
+    url: https://bluemine.myntu.me
   - name: MineNTU Landing Page
     url: https://minecraft.myntu.me
   - name: MineNTU Docs Page
     url: https://minecraft.myntu.me/docs
+  - name: MineNTU Service API
+    url: $SERVICE_API_URL
   - name: MineNTU Assistant Bot
     url: $ASSISTANT_BOT_URL
 
