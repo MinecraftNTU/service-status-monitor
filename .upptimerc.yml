@@ -21,6 +21,7 @@ sites:
 
 status-website:
   name: MineNTU 服務狀態
+  introTitle: MineNTU 服務狀態
   baseUrl: /status
 
 i18n:
