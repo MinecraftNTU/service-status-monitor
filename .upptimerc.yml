@@ -24,4 +24,4 @@ status-website:
   baseUrl: /status
 
 i18n:
-  footer: **THIS PAGE IS NOT FULLY OPTIMIZED.**
+  footer: *THIS PAGE IS NOT FULLY OPTIMIZED.*
