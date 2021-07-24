@@ -28,5 +28,5 @@ i18n:
   allSystemsOperational: 所有服務皆正常運作
   overallUptime: "在線率：$UPTIME"
   averageResponseTime: "平均伺服器回應時間：$TIMEms"
-  liveStatus: 目前在線狀態
+  liveStatus: 在線狀態
   footer: THIS PAGE IS NOT FULLY OPTIMIZED.
