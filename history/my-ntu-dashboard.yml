@@ -1,7 +1,7 @@
 url: https://dashboard.myntu.me
-status: up
-code: 200
-responseTime: 143
-lastUpdated: 2021-11-03T15:48:51.316Z
+status: down
+code: 403
+responseTime: 154
+lastUpdated: 2021-11-03T17:48:51.608Z
 startTime: Fri Jul 23 2021 08:48:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
