@@ -1,7 +1,7 @@
 url: $ASSISTANT_BOT_URL
-status: up
-code: 200
-responseTime: 291
-lastUpdated: 2021-11-04T23:07:37.812Z
+status: down
+code: 530
+responseTime: 70
+lastUpdated: 2021-11-05T12:29:35.323Z
 startTime: Fri Jul 23 2021 09:07:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
