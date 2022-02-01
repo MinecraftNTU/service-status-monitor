@@ -1,7 +1,7 @@
 url: https://bluemine.myntu.me
-status: up
-code: 200
-responseTime: 635
-lastUpdated: 2022-01-31T23:07:36.076Z
+status: down
+code: 500
+responseTime: 3636
+lastUpdated: 2022-02-01T19:59:40.193Z
 startTime: Fri Jul 23 2021 09:07:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
