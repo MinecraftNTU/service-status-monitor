@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 255,
     "dailyMinutesDown": {
-      "2022-02-03": 533,
+      "2022-02-03": 544,
       "2022-02-02": 1440,
       "2022-02-01": 1440,
       "2022-01-31": 1440,
@@ -154,17 +154,17 @@
     "url": "https://bluemine.myntu.me",
     "icon": "https://favicons.githubusercontent.com/bluemine.myntu.me",
     "slug": "bluemine",
-    "status": "up",
-    "uptime": "86.30%",
-    "uptimeDay": "47.75%",
+    "status": "down",
+    "uptime": "86.31%",
+    "uptimeDay": "48.53%",
     "uptimeWeek": "91.63%",
-    "uptimeMonth": "65.09%",
-    "uptimeYear": "86.30%",
-    "time": 8885,
-    "timeDay": 3839,
-    "timeWeek": 3682,
-    "timeMonth": 5351,
-    "timeYear": 8885,
+    "uptimeMonth": "65.12%",
+    "uptimeYear": "86.31%",
+    "time": 8881,
+    "timeDay": 3890,
+    "timeWeek": 3716,
+    "timeMonth": 5358,
+    "timeYear": 8881,
     "dailyMinutesDown": {
       "2022-02-03": 440,
       "2022-02-02": 382,
@@ -199,7 +199,7 @@
       "2021-12-17": 91,
       "2021-12-09": 540,
       "2021-12-08": 895,
-      "2021-12-07": 328
+      "2021-12-07": 289
     }
   },
   {
@@ -255,7 +255,7 @@
     "timeMonth": 102,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2022-02-03": 533,
+      "2022-02-03": 544,
       "2022-02-02": 1440,
       "2022-02-01": 1440,
       "2022-01-31": 1440,
@@ -366,7 +366,7 @@
     "timeMonth": 102,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2022-02-03": 533,
+      "2022-02-03": 544,
       "2022-02-02": 1440,
       "2022-02-01": 1440,
       "2022-01-31": 1440,
